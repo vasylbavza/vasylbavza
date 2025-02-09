@@ -9,10 +9,10 @@ Welcome to my GitHub profile! I'm a full-stack developer with a strong focus on 
 🏆 OpenAI/Claude3.5 Sonnet/ChatGPT/Chatbots/Chrome Extension/Automation  
 🏆 VoIP/FreeSWITCH/Twilio/Asterisk/FreePBX/OpenSIPS  
 🏆 RAG/LLM/Langchain  
-🏆 Deepgram/Whisper/Watson/ElevenLabs  
+🏆 Deepgram/ElevenLabs/DeepSeek/Whisper/Watson  
 🏆 DevOps (CI/CD) | Cloud (Amazon/Azure/GCP)  
 🏆 React/Next.js/Tailwind CSS/TypeScript/JavaScript  
-🏆 Python/Django/Flask/FastAPI | Node/Express.js/Nuxt.js | Golang | Ruby on Rails | PHP/Laravel  
+🏆 Python/Django/Flask/FastAPI | Node/Express.js/Nuxt.js | Golang | Ruby on Rails | PHP/Laravel | Java
 🏆 Supabase/Firebase | MongoDB | MySQL | PostgreSQL  
 🏆 RESTful API | GraphQL  
 🏆 Web Scraping | Data Scraping  
