@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a full-stack developer with a strong focus on 
 ## 🚀 My Skills
 
 🏆 Generative AI (Video, Image, Audio)  
-🏆 OpenAI/Claude3.5 Sonnet/ChatGPT/Chatbots/Chrome Extension/Automation  
+🏆 OpenAI/Claude3.5 Sonnet/DeepSeek/ChatGPT/Chatbots/Chrome Extension/Automation  
 🏆 VoIP/FreeSWITCH/Twilio/Asterisk/FreePBX/OpenSIPS  
 🏆 RAG/LLM/Langchain  
 🏆 Deepgram/ElevenLabs/DeepSeek/Whisper/Watson  
