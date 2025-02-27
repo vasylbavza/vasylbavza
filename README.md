@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a full-stack developer with a strong focus on 
 🏆 RAG/LLM/Langchain  
 🏆 Deepgram/ElevenLabs/DeepSeek/Whisper/Watson  
 🏆 DevOps (CI/CD) | Cloud (Amazon/Azure/GCP)  
-🏆 React/Next.js/Tailwind CSS/TypeScript/JavaScript  
-🏆 Python/Django/Flask/FastAPI | Node/Express.js/Nuxt.js | Golang | Ruby on Rails | PHP/Laravel | Java(Spring Boot)  
+🏆 React/Next.js/React Native/Tailwind CSS/TypeScript/JavaScript  
+🏆 Python/Django/Flask/FastAPI | Node/Express.js/Nuxt.js/Electron.js | Golang | Ruby on Rails | PHP/Laravel | Java(Spring Boot)  
 🏆 Supabase/Firebase | MongoDB | MySQL | PostgreSQL  
 🏆 RESTful API | GraphQL  
 🏆 Web Scraping | Data Scraping  
