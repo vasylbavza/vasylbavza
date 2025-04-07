@@ -1,4 +1,4 @@
-# Hi 👋, I'm a Software Engineer focused on Backend, Generative AI, VoIP, Chatbot, Blockchain, Full-Stack, and DevOps.
+# Hi 👋, I'm a Software Engineer focused on Mobile & iOS development, Backend, Generative AI, VoIP, Chatbot, Blockchain, Full-Stack, and DevOps.
 
 Welcome to my GitHub profile! I'm a full-stack developer with a strong focus on AI development and real-time communications. Below are some of the areas I specialize in and the technologies I work with.
 
@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a full-stack developer with a strong focus on 
 🏆 DevOps (CI/CD) | Cloud (Amazon/Azure/GCP)  
 🏆 React/Next.js/React Native/Tailwind CSS/TypeScript/JavaScript  
 🏆 Python/Django/Flask/FastAPI | Node/Express.js/Nuxt.js/Electron.js | Golang | Ruby on Rails | PHP/Laravel | Java(Spring Boot)  
+🏆 React Native | Flutter | Java
 🏆 Supabase/Firebase | MongoDB | MySQL | PostgreSQL  
 🏆 RESTful API | GraphQL  
 🏆 Web Scraping | Data Scraping  
