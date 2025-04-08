@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a full-stack developer with a strong focus on 
 
 🏆 React/Next.js/React Native/Tailwind CSS/TypeScript/JavaScript  
 🏆 Python/Django/Flask/FastAPI | Node/Express.js/Nuxt.js/Electron.js | Golang | Ruby on Rails | PHP/Laravel | Java(Spring Boot)  
-🏆 Mobile & iOS develoment using React Native | Flutter | Java
-🏆 Supabase/Firebase | MongoDB | MySQL | PostgreSQL 
+🏆 Mobile & iOS develoment using React Native | Flutter | Java  
+🏆 Supabase/Firebase | MongoDB | MySQL | PostgreSQL  
 🏆 Generative AI (Video, Image, Audio)  
 🏆 OpenAI/Claude3.5 Sonnet/DeepSeek/ChatGPT/Chatbots/Chrome Extension/Automation  
 🏆 RAG/LLM/Langchain  
